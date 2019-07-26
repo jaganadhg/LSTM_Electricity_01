@@ -6,3 +6,6 @@ The tutorial video is available at : https://youtu.be/d_qX2V9iBeQ
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d_qX2V9iBeQ/0.jpg)](https://www.youtube.com/watch?v=d_qX2V9iBeQ)
 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaganadhg/LSTM_Electricity_01/master)
